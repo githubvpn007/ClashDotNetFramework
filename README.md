@@ -34,7 +34,8 @@ ClashDotNetFramework 是基于.NET5的图形化 Clash 分支。
 **1.下载安装**
 
 [下载地址](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases)  
-[7-zip解压软件下载](https://www.7-zip.org/)
+[7-zip解压软件下载](https://www.7-zip.org/)  
+
 请根据自己的系统及需求来选择对应的文件进行下载。
 
 ![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/1.png)  
