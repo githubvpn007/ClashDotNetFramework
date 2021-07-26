@@ -83,7 +83,7 @@ fonts: 字体文件。
 
 然后字体就可以正常显示了：  
 
-
+![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/10.png)  
 
 
 
@@ -94,8 +94,67 @@ fonts: 字体文件。
 
 **3.添加订阅**  
 
-首先复制好自己的Clash订阅链接。  [没有订阅地址看这里](https://github.com/githubvpn007/v2rayNvpn)  
+(1)首先复制好自己的Clash订阅链接。  [没有订阅地址看这里](https://github.com/githubvpn007/v2rayNvpn)  
 然后点击 **主页** → **配置**，点击加号位置，然后在弹出的窗口中粘贴自己的Clash订阅链接并点击订阅。  
+
+![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/11.png)   
+![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/12.png)  
+
+
+
+(2)然后点击一下自己刚添加的这个订阅，显示为绿色高亮，才是选中状态。  
+
+![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/13.png)  
+
+
+
+(3)然后在**主页**上点击**代理**，即可看到订阅中的节点。小闪电按钮可以快速检测可用性。
+
+![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/14.png)  
+
+注意：Clash使用 HTTP HEAD 方法对测试网址（server_check_url）进行网页相应测试，以确认节点的可用性。数值在5000以内均为正常值，超出则显示为超时。数值大小和网速快慢没有什么关系。
+
+
+<br/>
+<br/>
+
+
+
+**4.启动代理**  
+
+
+(1)在上一步中选好节点，点击**设置**，然后勾选**系统代理**，即可科学上网。
+
+![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/15.png)  
+
+
+(2)代理启动以后，主页右侧的表格会有所波动。  
+
+
+![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/16.png)   
+
+
+<br/>
+<br/>
+
+
+## 完成  
+
+
+
+## 本项目不做VPN分享，如果您希望获得最佳的科学上网方案 [点击这里](https://github.com/githubvpn007/v2rayNvpn)  
+
+<br/>
+
+## 如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 [请点这里](https://github.com/githubvpn007/proxy)
+
+
+
+
+
+
+
+
 
 
 
