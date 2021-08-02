@@ -1,5 +1,5 @@
 # ClashDotNetFramework
-ClashDotNetFramework，ClashDotNetFramework教程，ClashDotNetFramework配置，ClashDotNetFramework配置说明、vpn代理
+ClashDotNetFramework，ClashDotNetFramework教程，ClashDotNetFramework配置，ClashDotNetFramework配置说明、vpn代理协议
 
 
 
