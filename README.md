@@ -38,7 +38,7 @@ ClashDotNetFramework 是基于.NET5的图形化 Clash 分支。
 
 请根据自己的系统及需求来选择对应的文件进行下载。
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/1.png)  
+![](https://i.postimg.cc/LsPPZ7JZ/1.png)  
 
 exe: 安装包。下载后双击运行开始安装。  
 7z: 压缩包（便携版）。下载后解压全部文件，然后双击运行主程序即可。  
@@ -49,14 +49,14 @@ fonts: 字体文件。
 
 **注意**： 软件运行需要本机有.NET5依赖，如果首次启动的时候有如下提示，请点击“是”，然后安装对应的依赖包  
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/2.png)  
+![](https://i.postimg.cc/tCmnvyPx/2.png)  
 
 
 根据自己的系统类型进行选择：
 
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/3.png)  
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/4.png)  
+![](https://i.postimg.cc/gj2r4B2s/3.png)  
+![](https://i.postimg.cc/d0G70yf2/4.png)  
 
 
 <br/>
@@ -71,20 +71,20 @@ fonts: 字体文件。
 
 点击 **Settings** → **Display** → **Language**  
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/5.png)  
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/6.png)  
+![](https://i.postimg.cc/B6gXTG4t/5.png)  
+![](https://i.postimg.cc/gcgxrdgT/6.png)  
 
 
 [如果出现如上图这种比较奇怪的中文字体，说明本机缺少部分字体库，可以回到官方下载页面下载对应的文字库，解压后双击运行，点击安装。然后重启一次ClashDotNetFramework客户端。](#1)  
 
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/7.png)  
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/8.png)  
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/9.png)  
+![](https://i.postimg.cc/QCYCzkB3/7.png)  
+![](https://i.postimg.cc/XYCq254R/8.png)  
+![](https://i.postimg.cc/PqbxHkLK/9.png)  
 
 然后字体就可以正常显示了：  
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/10.png)  
+![](https://i.postimg.cc/Ss7zgM7S/10.png)  
 
 
 
@@ -98,20 +98,20 @@ fonts: 字体文件。
 (1)首先复制好自己的Clash订阅链接。  [没有订阅地址看这里](https://github.com/githubvpn007/v2rayNvpn)  
 然后点击 **主页** → **配置**，点击加号位置，然后在弹出的窗口中粘贴自己的Clash订阅链接并点击订阅。  
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/11.png)   
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/12.png)  
+![](https://i.postimg.cc/XYRG38sN/11.png)   
+![](https://i.postimg.cc/1tZq0HF7/12.png)  
 
 
 
 (2)然后点击一下自己刚添加的这个订阅，显示为绿色高亮，才是选中状态。  
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/13.png)  
+![](https://i.postimg.cc/c4J8c6KW/13.png)  
 
 
 
 (3)然后在**主页**上点击**代理**，即可看到订阅中的节点。小闪电按钮可以快速检测可用性。
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/14.png)  
+![](https://i.postimg.cc/ZK0CdggK/14.png)  
 
 注意：Clash使用 HTTP HEAD 方法对测试网址（server_check_url）进行网页相应测试，以确认节点的可用性。数值在5000以内均为正常值，超出则显示为超时。数值大小和网速快慢没有什么关系。
 
@@ -126,13 +126,13 @@ fonts: 字体文件。
 
 (1)在上一步中选好节点，点击**设置**，然后勾选**系统代理**，即可科学上网。
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/15.png)  
+![](https://i.postimg.cc/qvhh9YXZ/15.png)  
 
 
 (2)代理启动以后，主页右侧的表格会有所波动。  
 
 
-![](https://github.com/githubvpn007/ClashDotNetFramework/blob/main/images/16.png)   
+![](https://i.postimg.cc/hPwhbsW8/16.png)   
 
 
 <br/>
